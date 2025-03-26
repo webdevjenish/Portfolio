@@ -1,0 +1,26 @@
+@media(min-width:576px){
+
+    /* BANNER */
+
+    .banner-content h1{
+        font-size: 45px;
+    }
+}
+@media(min-width:768px){
+    
+}
+@media(min-width:992px){
+    
+}
+@media(min-width:1200px){  
+
+    /* BANNER */
+
+    .banner-content h1{
+        font-size: 60px;
+    }
+
+}
+@media(min-width:1400px){
+    
+}
